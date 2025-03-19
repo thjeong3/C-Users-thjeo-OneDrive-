@@ -1,0 +1,22 @@
+exercise_db = {
+    "걷기 3km": {"calories_per_min": 3, "intensity": "낮음", "type": "유산소", "duration": "30분"},
+    "3km 달리기": {"calories_per_min": 8, "intensity": "중간", "type": "유산소", "duration": "20분"},
+    "스쿼트 60회": {"calories_per_min": 7, "intensity": "높음", "type": "근력", "duration": "15분"},
+    "푸시업 80회": {"calories_per_min": 6, "intensity": "중간", "type": "근력", "duration": "15분"},
+    "사이클링": {"calories_per_min": 9, "intensity": "높음", "type": "유산소", "duration": "20분"},
+    "버피 테스트 30회": {"calories_per_min": 10, "intensity": "높음", "type": "전신", "duration": "10분"},
+    "마운틴 클라이머 50회": {"calories_per_min": 9, "intensity": "높음", "type": "전신", "duration": "10분"},
+    "케틀벨 스윙 50회": {"calories_per_min": 7, "intensity": "중간", "type": "근력", "duration": "15분"},
+    "덤벨 스쿼트 40회": {"calories_per_min": 6, "intensity": "중간", "type": "근력", "duration": "15분"},
+    "벤치 프레스 3세트": {"calories_per_min": 8, "intensity": "높음", "type": "근력", "duration": "20분"},
+    "풀업 20회": {"calories_per_min": 8, "intensity": "높음", "type": "근력", "duration": "15분"},
+    "바이시클 크런치 40회": {"calories_per_min": 5, "intensity": "중간", "type": "복근", "duration": "10분"},
+    "플랭크 3세트": {"calories_per_min": 4, "intensity": "중간", "type": "코어", "duration": "10분"},
+    "점핑잭 100회": {"calories_per_min": 7, "intensity": "중간", "type": "유산소", "duration": "10분"},
+    "덤벨 런지 20회": {"calories_per_min": 6, "intensity": "중간", "type": "근력", "duration": "15분"},
+    "레그 레이즈 30회": {"calories_per_min": 5, "intensity": "중간", "type": "복근", "duration": "10분"},
+    "스피닝 15분": {"calories_per_min": 11, "intensity": "높음", "type": "유산소", "duration": "15분"},
+    "로잉 머신 20분": {"calories_per_min": 10, "intensity": "높음", "type": "전신", "duration": "20분"},
+    "덤벨 컬 3세트": {"calories_per_min": 5, "intensity": "중간", "type": "근력", "duration": "15분"},
+    "스텝업 20회": {"calories_per_min": 6, "intensity": "중간", "type": "유산소", "duration": "10분"}
+}
